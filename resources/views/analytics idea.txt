@@ -1,0 +1,41 @@
+Certainly! If you have a disease table that includes associated investigations and treatments, you can incorporate analytics to enhance the reporting and analysis of these relationships. Here are some ideas for displaying the disease, investigations, and treatments analytics:
+
+Disease Distribution:
+
+Show the distribution of diseases in your system.
+Provide a summary count or percentage of diseases by category or classification.
+Display charts or tables to visualize the distribution of diseases.
+Investigation Analysis:
+
+Analyze the investigations associated with each disease.
+Identify the most commonly performed investigations for specific diseases.
+Calculate metrics such as the frequency of investigations or average number of investigations per disease.
+Present the findings in charts or tables to compare the usage and importance of investigations.
+Treatment Analysis:
+
+Analyze the treatments recommended for each disease.
+Identify the most common or effective treatments for specific diseases.
+Calculate metrics such as the frequency of treatments or success rates for each treatment.
+Present the findings in charts or tables to compare the usage and effectiveness of treatments.
+Disease-Investigation Associations:
+
+Explore the relationships between diseases and investigations.
+Identify the most common investigations associated with specific diseases.
+Display a matrix or network diagram to visualize the associations between diseases and investigations.
+Disease-Treatment Associations:
+
+Explore the relationships between diseases and treatments.
+Identify the most common treatments associated with specific diseases.
+Display a matrix or network diagram to visualize the associations between diseases and treatments.
+Treatment Effectiveness and Outcomes:
+
+Analyze the effectiveness of different treatments for specific diseases.
+Track the outcomes and success rates of treatments.
+Calculate metrics such as recovery rates or improvement percentages for each treatment.
+Present the findings in charts or tables to compare the effectiveness of treatments.
+Comparative Analysis:
+
+Compare the investigations and treatments across different diseases.
+Identify similarities or differences in the recommended investigations and treatments.
+Use visualizations such as Venn diagrams or stacked bar charts to highlight the overlapping or unique elements.
+These analytics features can provide valuable insights into the relationships between diseases, investigations, and treatments. They can help healthcare professionals make informed decisions, identify patterns, and improve patient care. Customize the analytics based on your specific data structure, medical rules, and objectives.
